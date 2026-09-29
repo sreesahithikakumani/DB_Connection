@@ -247,11 +247,6 @@ http://localhost:8080/DB_Connection/
 
 ---
 
-## 📄 License
-
-This project is intended for educational purposes and learning Java web application development.
-
----
 
 ## 👨‍💻 Author
 
@@ -260,11 +255,3 @@ This project is intended for educational purposes and learning Java web applicat
 - GitHub: [sreesahithikakumani](https://github.com/sreesahithikakumani)
 
 ---
-
-## 🙏 Acknowledgment
-
-This project was created as part of the NRCM mini project to understand Java web application development, JDBC integration, and MySQL connectivity.
-
----
-
-Last updated: September 29, 2026
